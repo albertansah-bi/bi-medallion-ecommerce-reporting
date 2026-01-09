@@ -10,3 +10,8 @@ __pycache__/
 
 # Environment variables
 .env
+
+# --- IDE & Environment ---
+# If using VS Code for DAX/TMDL editing
+.vscode/
+.DS_Store
